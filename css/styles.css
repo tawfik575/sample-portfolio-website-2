@@ -1,0 +1,159 @@
+a {
+    margin: 1.25rem;
+
+    color: #11999E;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+body {
+    margin: 0;
+
+    color: #40514E;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 15.625rem;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+
+    border-radius: 8px;
+    -moz-border-radius: 8;
+    padding: 10px 20px 10px 20px;
+
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.btn:hover {
+    text-decoration: none;
+
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+}
+
+.chillies {
+    width: 25%;
+
+    float: right;
+    margin-left: 2.5rem;
+}
+
+.coding {
+    width: 25%;
+
+    float: left;
+    margin-right: 2.5rem;
+}
+
+.contact-me {
+    width: 43%;
+    margin: 6.25rem auto 6.25rem;
+}
+
+.contact-me p {
+    margin: 3.1rem 0 3.1rem;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+
+    margin-top: 2.1rem;
+}
+
+h1 {
+    margin-bottom: 0;
+
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+    padding-top: 6.25rem;
+    background-color: #E4F9F5;
+}
+
+hr {
+    color: #434242;
+
+    width: 5%;
+    border: dotted 10px;
+    border-bottom: none;
+}
+
+.intro {
+    padding-bottom: 1.563rem;
+}
+
+.middle-section {
+    margin: 6.25rem 0 6.25rem;
+}
+
+p {
+    line-height: 2.1;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.social-links {
+    padding: 2.41rem;
+    background-color: #66BFBF;
+}
+
+.short-bio {
+    width: 35%;
+    margin: 6.25rem auto 6.25rem;
+}
+
+.skill-set {
+    width: 50%;
+    text-align: justify;
+
+    margin: 6.25rem auto 6.25rem;
+}
+
+.skill-1 {
+    margin-bottom: 7.5rem;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 2.5rem;
+    right: 18.75rem;
+}
